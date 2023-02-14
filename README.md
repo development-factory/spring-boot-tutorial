@@ -13,7 +13,7 @@ Curs împărțit în 14 părți:
 7. Returnarea datelor în format JSON : https://youtu.be/2lxtogmyDHE
 8. Creare și configurare bază de date : https://youtu.be/8buKII2LXhA
 9. Repository & entități : https://youtu.be/Q89IwQ2K8ac
-10. Injectarea dependințelor : https://youtu.be/ntp7rO5u9Iw
+10. Injectarea dependențelor : https://youtu.be/ntp7rO5u9Iw
 11. Layering-ul și arhitectura aplicației : https://youtu.be/2vRvzkdZpbU
 12. Implementarea acțiunilor CRUD : https://youtu.be/z1MXJz9pJHM
 13. Colecție de teste în POSTMAN : https://youtu.be/mH_dSmcJJfA
